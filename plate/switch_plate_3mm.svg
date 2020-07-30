@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="298.10098mm"
+   height="107.59904mm"
+   viewBox="0 0 298.10098 107.59904"
+   version="1.1"
+   id="svg13629"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="switch_plate_3mm.svg">
+  <defs
+     id="defs13623" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="441.00951"
+     inkscape:cy="294.60795"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2093"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata13626">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.0388,-285.53381)">
+    <g
+       transform="translate(285.05752,-567.79585)"
+       id="g12710">
+      <g
+         id="g12474">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 32.007252,853.40466 H -122.49377 c -1,0 -2,1 -2,2 v 23.15002 h -9.52598 v 19.05 h 4.763 v 19.05002 h 9.525 v 19.04895 h -9.52495 v 23.15005 c 0,1 1,2 2,2 H 32.007252 c 1,0 2,-1 2,-2 V 855.40466 c 0,-1 -1,-2 -2,-2 z"
+           id="path10673-3-25"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccc" />
+        <g
+           id="g12253">
+          <circle
+             r="1.375"
+             cy="956.85364"
+             cx="-125.25669"
+             id="path11076-96-6-3"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <circle
+             r="1.375"
+             cy="956.85364"
+             cx="30.007256"
+             id="path11076-96-0-7"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <circle
+             r="1.375"
+             cy="857.40466"
+             cx="30.007256"
+             id="path11076-96-3-6"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <circle
+             r="1.375"
+             cy="857.40466"
+             cx="-120.49375"
+             id="path11076-96-9-8"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -121.86874,872.02969 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -102.81874,872.02969 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.811011 v -1.8109 h 4.994489 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.994489 v -1.811 h -3.811011 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -83.768739,872.02969 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.994489 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.994489 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -64.718739,872.02969 h -0.8 v 2.9 h 0.8 v 1 h 4.994499 v 1.8109 h 3.811011 v -1.8109 h 4.994489 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.994489 v -1.811 h -3.811011 v 1.811 h -4.994499 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -45.66874,872.02969 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.811011 v -1.8109 h 4.994489 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.994489 v -1.811 h -3.811011 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -26.618739,872.02969 h -0.8 v 2.9 h 0.8 v 1 h 4.994499 v 1.8109 h 3.811011 v -1.8109 h 4.994489 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.994489 v -1.811 h -3.811011 v 1.811 h -4.994499 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-01"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -7.5687398,872.02969 h -0.8 v 2.9 h 0.8 v 1 h 4.9944999 v 1.8109 h 3.8110102 v -1.8109 H 6.23126 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 H 1.2367703 v -1.811 h -3.8110102 v 1.811 h -4.9944999 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 11.481261,872.02969 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.994489 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.994489 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 6.7182599,891.07969 h -0.8 v 2.9 h 0.8 v 1 H 11.71276 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 H 6.7182599 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-10"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -17.09374,891.07969 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.8110103 v -1.8109 H -3.29374 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.9944897 v -1.811 H -12.09924 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-35"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -36.14374,891.07969 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.811011 v -1.8109 h 4.994489 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.994489 v -1.811 h -3.811011 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-94"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -55.19374,891.07968 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -5.99999 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-84"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -74.24374,891.07969 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -93.29374,891.07969 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-92"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -112.34374,891.07969 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-90"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -131.39374,891.07969 h -0.80001 v 2.9 h 0.80001 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.80001 v 2.9 h 0.80001 z"
+           id="polygon913-0-8-33-0-30"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -126.63174,910.12869 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-33"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -107.58174,910.12869 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.811012 v -1.8109 h 4.994488 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.994488 v -1.811 h -3.811012 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-79"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -88.53174,910.12869 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -69.481739,910.12869 h -0.8 v 2.9 h 0.8 v 1 h 4.994499 v 1.8109 h 3.811011 v -1.8109 h 4.994489 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.994489 v -1.811 h -3.811011 v 1.811 h -4.994499 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-99"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -50.43174,910.12869 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-19"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -31.38174,910.12869 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-42"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m 11.48126,929.17869 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-06"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -14.71274,929.17869 h -0.8 v 2.9 h 0.8 v 1 h 4.9945001 v 1.8109 h 3.8110102 v -1.8109 H -0.91274 v -1 h 0.79999996 v -2.9 H -0.91274 v -6 h 0.79999996 v -2.9 H -0.91274 v -1 h -4.9944897 v -1.811 h -3.8110102 v 1.811 H -14.71274 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-59"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -40.90674,929.17869 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.811011 v -1.8109 h 4.994489 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.994489 v -1.811 h -3.811011 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-56"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -59.95674,929.17869 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-11"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -79.00674,929.17869 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-43"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -98.05674,929.17869 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-72"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -117.10674,929.17869 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-73"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -119.48774,948.22869 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-39"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -95.67574,948.22869 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -71.86274,948.22869 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-44"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -8.700751,898.88779 h 6.55 v 1.3409 h 6.71949 v -1.8109 h 3.811 v 1.8109 h 6.71947 v -1.3409 h 6.550001 l 1.9e-5,6.0409 h 0.825031 v 2.6001 h -0.825031 v 10.0809 h -6.55 v -3.58 h -6.71949 v 1.811 h -3.811 v -1.811 h -6.71949 v 3.58 h -6.55 v -10.0809 h -0.8249996 v -2.6001 h 0.8249996 z"
+           id="path5829-4-4"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g12668"
+       transform="translate(305.16599,-567.79585)">
+      <g
+         id="g12433">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -282.05219,853.40466 h 135.44996 c 1,0 2,1 2,2 v 23.15002 h -9.52598 v 19.05 h 4.763 v 19.05002 h 9.525 v 19.04895 h -9.52495 v 23.15005 c 0,1 -1,2 -2,2 h -130.68703 c -1,0 -2,-1 -2,-2 V 855.40466 c 0,-1 1,-2 2,-2 z"
+           id="path10906-2-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccc" />
+        <g
+           transform="translate(91.28126,159.01457)"
+           id="g11182-7"
+           style="stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none">
+          <circle
+             r="1.375"
+             cy="797.83911"
+             cx="-371.33362"
+             id="path11076-3"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <circle
+             r="1.375"
+             cy="797.83911"
+             cx="-244.64601"
+             id="path11076-4-1"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <circle
+             r="1.375"
+             cy="698.39014"
+             cx="-239.88307"
+             id="path11076-9-0"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <circle
+             r="1.375"
+             cy="698.39014"
+             cx="-371.33362"
+             id="path11076-2-0"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -175.31519,929.17868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-54"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -194.36519,929.17868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-394"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -213.41519,929.17868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-95"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -232.46519,929.17868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-57"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -165.79019,910.12868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-390"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -222.94019,910.12868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-50"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -241.99019,910.12868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-41"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -268.18419,910.12868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81102 v -1.8109 h 4.99448 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99448 v -1.811 h -3.81102 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-793"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -270.56519,891.07868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81102 v -1.8109 h 4.99448 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99448 v -1.811 h -3.81102 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-62"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -246.75219,891.07868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-12"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -227.70219,891.07868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-53"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -208.65219,891.07868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-91"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -189.60319,891.07868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-88"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -170.55319,891.07868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-70"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -275.32719,872.02968 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-27"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -271.6962,917.93868 h 6.55 v 1.3409 h 6.71951 v -1.8109 h 3.81099 v 1.8109 h 6.71947 v -1.3409 h 6.55001 l 2e-5,6.0409 h 0.82503 v 2.6001 h -0.82503 v 10.0809 h -6.55 v -3.58 h -6.7195 v 1.811 h -3.81099 v -1.811 h -6.71951 v 3.58 h -6.55 v -10.0809 h -0.825 v -2.6001 h 0.825 z"
+           id="path5829-4-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -256.27819,872.02968 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-57-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -237.22719,872.02968 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-57-06"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -218.17819,872.02968 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-57-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -199.12719,872.02968 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-57-43"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -180.07819,872.02968 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-57-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -161.02819,872.02968 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-57-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -184.84019,910.12868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-57-47"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -203.89019,910.12868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-57-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -220.55919,948.22868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-57-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -196.74619,948.22868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-57-79"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -172.93419,948.22868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-57-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -156.26519,929.17868 h -0.8 v 2.9 h 0.8 v 1 h 4.9945 v 1.8109 h 3.81101 v -1.8109 h 4.99449 v -1 h 0.8 v -2.9 h -0.8 v -6 h 0.8 v -2.9 h -0.8 v -1 h -4.99449 v -1.811 h -3.81101 v 1.811 h -4.9945 v 1 h -0.8 v 2.9 h 0.8 z"
+           id="polygon913-0-8-33-0-57-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>
